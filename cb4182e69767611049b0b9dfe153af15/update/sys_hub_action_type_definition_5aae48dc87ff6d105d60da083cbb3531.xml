@@ -18,6 +18,7 @@
         <internal_name>eda_webhook</internal_name>
         <label_cache>[{"name":"{{action.body}}","label":"action➛variable","type":"action","ref":"","reference_display":"","base_type":"object","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.Event_Data}}","label":"action➛Event Data","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{"sourceId":"","uiTypeLabel":"JSON","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","sourceUiUniqueId":"","sourceType":"","uiType":"json","uiUniqueId":"3093d685-6715-44ff-a9b0-7ac464d96de3"}},{"name":"{{action.table_name}}","label":"action➛Table Name","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}},{"name":"{{action.record_id}}","label":"action➛Record ID","type":"action","ref":"","reference_display":"","base_type":"string","parent_table_name":"","column_name":"","choices":null,"attributes":{}}]</label_cache>
         <master_snapshot>2e421c148733ad105d60da083cbb3578</master_snapshot>
+        <master_snapshot_digest/>
         <name>EDA Webhook</name>
         <natlang/>
         <outputs/>
@@ -37,7 +38,7 @@
         <sys_scope display_value="Event-Driven Ansible Notification Service">cb4182e69767611049b0b9dfe153af15</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_5aae48dc87ff6d105d60da083cbb3531</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-13 12:47:15</sys_updated_on>
+        <sys_updated_on>2025-02-26 17:52:13</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -174,6 +175,7 @@
         <value>{{action.table_name}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=f57094d08733ad105d60da083cbb35c3"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=f57094d08733ad105d60da083cbb35c3"/>
     <sys_hub_step_ext_input action="delete_multiple" query="model=f57094d08733ad105d60da083cbb35c3^sys_idNOT IN2323869d87c0bd505d60da083cbb35dc,e323869d87c0bd505d60da083cbb35df,f57094d08733ad105d60da083cbb35cb"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -1174,6 +1176,7 @@
         <value>{{action.table_name}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=ea421c148733ad105d60da083cbb3581"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=ea421c148733ad105d60da083cbb3581"/>
     <sys_hub_step_ext_input action="delete_multiple" query="model=ea421c148733ad105d60da083cbb3581^sys_idNOT IN0833c69d87c0bd505d60da083cbb357b,62421c148733ad105d60da083cbb3585,dc33c69d87c0bd505d60da083cbb357e"/>
     <sys_hub_step_ext_input action="INSERT_OR_UPDATE">
         <active>true</active>

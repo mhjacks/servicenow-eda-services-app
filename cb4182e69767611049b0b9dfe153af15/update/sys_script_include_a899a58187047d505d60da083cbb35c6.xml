@@ -6,7 +6,9 @@
         <caller_access/>
         <client_callable>true</client_callable>
         <description>Client sends a dummy event to test EDA webhook connectivity.</description>
+        <mobile_callable>false</mobile_callable>
         <name>EdaEventDirectAjax</name>
+        <sandbox_callable>true</sandbox_callable>
         <script><![CDATA[var EdaEventDirectAjax = Class.create();
 EdaEventDirectAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
     send: function() {
@@ -31,4 +33,15 @@ EdaEventDirectAjax.prototype = Object.extendsObject(global.AbstractAjaxProcessor
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-02-01 18:48:16</sys_updated_on>
     </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>a899a58187047d505d60da083cbb35c6</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-29 14:26:06</sys_created_on>
+        <sys_id>69356b8b3bd7d61027e6299aa4e45a69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-29 14:26:06</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>

@@ -6,7 +6,9 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description>Send an event to EDA directly</description>
+        <mobile_callable>false</mobile_callable>
         <name>EdaEventDirect</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[var EdaEventDirect = Class.create();
 EdaEventDirect.prototype = {
     initialize: function() {
@@ -59,4 +61,15 @@ EdaEventDirect.prototype = {
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-06-21 07:22:13</sys_updated_on>
     </sys_script_include>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>1271c50d87407d505d60da083cbb352d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 15:54:04</sys_created_on>
+        <sys_id>779cea683b97125027e6299aa4e45a9b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 15:54:04</sys_updated_on>
+        <table>sys_script_include</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>

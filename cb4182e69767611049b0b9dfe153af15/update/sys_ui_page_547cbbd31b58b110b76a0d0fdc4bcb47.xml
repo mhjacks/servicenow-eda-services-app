@@ -219,4 +219,15 @@ gs.setProperty("x_rhtpp_eda.mid_server", mid_server || '');
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-02-01 18:27:36</sys_updated_on>
     </sys_ui_page>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>547cbbd31b58b110b76a0d0fdc4bcb47</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-21 14:34:48</sys_created_on>
+        <sys_id>b67a1a643b57125027e6299aa4e45a80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-21 14:34:48</sys_updated_on>
+        <table>sys_ui_page</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
