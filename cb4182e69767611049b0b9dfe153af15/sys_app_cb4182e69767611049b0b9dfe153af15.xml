@@ -13,7 +13,7 @@
         <license_category>none</license_category>
         <license_definition/>
         <license_model>none</license_model>
-        <logo>0c352cd8fb40e6509bd5f1786eefdc37</logo>
+        <logo>3e3faec987a75e10970e2178cebb35db</logo>
         <menu/>
         <name>Event-Driven Ansible Notification Service</name>
         <package_json/>
@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_rhtpp_eda</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0002001516</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,55 +32,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-23 15:34:51</sys_created_on>
         <sys_id>cb4182e69767611049b0b9dfe153af15</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-26 18:10:57</sys_updated_on>
+        <sys_updated_on>2025-02-26 18:30:05</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor>Red Hat Inc TPP</vendor>
         <vendor_prefix/>
-        <version>1.0.10</version>
+        <version>1.0.17</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=cb4182e69767611049b0b9dfe153af15"/>
-    <sys_attachment action="INSERT_OR_UPDATE">
-        <average_image_color>#99cccc</average_image_color>
-        <chunk_size_bytes>700000</chunk_size_bytes>
-        <compressed>true</compressed>
-        <content_type>image/png</content_type>
-        <file_name>logo</file_name>
-        <hash>bbe885068e183b45fb0298df86e5eced05bb8ccc8f78ca7d90fadb44c1dfdf41</hash>
-        <image_height>100</image_height>
-        <image_width>100</image_width>
-        <size_bytes>2365</size_bytes>
-        <size_compressed>2267</size_compressed>
-        <state>available</state>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-26 18:10:57</sys_created_on>
-        <sys_id>0c352cd8fb40e6509bd5f1786eefdc37</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-26 18:10:57</sys_updated_on>
-        <table_name>ZZ_YYsys_app</table_name>
-        <table_sys_id>cb4182e69767611049b0b9dfe153af15</table_sys_id>
-    </sys_attachment>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>H4sIAAAAAAAA/w==</data>
-        <length>16</length>
-        <position>0</position>
-        <sys_attachment display_value="logo" sys_id="0c352cd8fb40e6509bd5f1786eefdc37">0c352cd8fb40e6509bd5f1786eefdc37</sys_attachment>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-26 18:10:57</sys_created_on>
-        <sys_id>4c352cd8fb40e6509bd5f1786eefdc37</sys_id>
-    </sys_attachment_doc>
-    <sys_attachment_doc action="INSERT_OR_UPDATE">
-        <data>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</data>
-        <length>3012</length>
-        <position>1</position>
-        <sys_attachment display_value="logo" sys_id="0c352cd8fb40e6509bd5f1786eefdc37">0c352cd8fb40e6509bd5f1786eefdc37</sys_attachment>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-26 18:10:57</sys_created_on>
-        <sys_id>cc352cd8fb40e6509bd5f1786eefdc37</sys_id>
-    </sys_attachment_doc>
 </record_update>
